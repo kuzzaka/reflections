@@ -5,3 +5,7 @@ I guess it includes the directory to the git structure
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 
 In the contrary with the working directory, the staging area contains only the files that you've added with 'git add'.
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+I can use the ‘git status’ command to reassure that I commit the files  I need
