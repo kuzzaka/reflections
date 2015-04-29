@@ -13,3 +13,11 @@ I can use the ‘git status’ command to reassure that I commit the files  I ne
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 
 With branch I can try out some new feature without changing the original files. I can also make a different version of an app (on another language for example or another difficulty level if it is a game app).
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+Because with the diagram I can see where exactly was introduced the code from merged branch. I did not understand clearly how exactly the merging works(
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+The automatic merge really speeds it up when you merging some big files, but it can't guess what version of code to remain when there is a conflict and this is where the manual merging needs. However it is not fully manual. You will only have to resolve the conflict which git found, and commit the changes
