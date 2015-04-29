@@ -5,3 +5,7 @@ when I want to engage someone to development.
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 
 maybe because I always have to manually set the exact branch to share
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+Fork is a special command that clones somebody's repository to your account on github for you to edit the code there. Clone is a copy of directory with commit history. And branches are clones of the master repository usually used to try a new feature or add experimental functions without changing the master branch i.e. code for production
