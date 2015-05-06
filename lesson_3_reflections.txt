@@ -5,3 +5,7 @@ when I want to engage someone to development.
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 
 maybe because I always have to manually set the exact branch to share
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+In situation where there are some developers working on the project together it is much easier to merge their branches using fast-forward merge too. In that case you’ll only have to merge manually the latest commits made by different people
